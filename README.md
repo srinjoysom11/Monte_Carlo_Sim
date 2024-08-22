@@ -1,6 +1,6 @@
 # Mon_Car_Sim
 Buch of problems related to monte carlo simulation and their solutions.
 ___________________________________
-    Assn1        | combined.ipynb
-    Assn2        |Assignment2-220123074
-    Assn3        |assn3
+    Assign01        | combined.ipynb
+    Assign02        |Assignment2-220123074
+    Assign03        |assn3
